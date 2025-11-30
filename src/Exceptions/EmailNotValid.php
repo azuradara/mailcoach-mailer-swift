@@ -1,6 +1,6 @@
 <?php
 
-namespace Dara\MailcoachMailerSwift\Exceptions;
+namespace AzuraDara\MailcoachMailerSwift\Exceptions;
 
 use Exception;
 

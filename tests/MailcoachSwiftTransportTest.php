@@ -4,8 +4,8 @@ use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Middleware;
 use GuzzleHttp\Psr7\Response;
-use Dara\MailcoachMailerSwift\Exceptions\NoHostSet;
-use Dara\MailcoachMailerSwift\MailcoachSwiftTransport;
+use AzuraDara\MailcoachMailerSwift\Exceptions\NoHostSet;
+use AzuraDara\MailcoachMailerSwift\MailcoachSwiftTransport;
 
 it('can send an email', function () {
     $container = [];

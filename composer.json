@@ -26,12 +26,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Dara\\MailcoachMailerSwift\\": "src"
+      "AzuraDara\\MailcoachMailerSwift\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Dara\\MailcoachMailerSwift\\Tests\\": "tests"
+      "AzuraDara\\MailcoachMailerSwift\\Tests\\": "tests"
     }
   },
   "scripts": {

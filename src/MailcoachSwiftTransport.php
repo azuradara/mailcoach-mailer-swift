@@ -1,12 +1,12 @@
 <?php
 
-namespace Dara\MailcoachMailerSwift;
+namespace AzuraDara\MailcoachMailerSwift;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
-use Dara\MailcoachMailerSwift\Exceptions\EmailNotValid;
-use Dara\MailcoachMailerSwift\Exceptions\NoHostSet;
-use Dara\MailcoachMailerSwift\Exceptions\NotAllowedToSendMail;
+use AzuraDara\MailcoachMailerSwift\Exceptions\EmailNotValid;
+use AzuraDara\MailcoachMailerSwift\Exceptions\NoHostSet;
+use AzuraDara\MailcoachMailerSwift\Exceptions\NotAllowedToSendMail;
 use Swift_Events_EventListener;
 use Swift_Mime_Attachment;
 use Swift_Mime_MimePart;
