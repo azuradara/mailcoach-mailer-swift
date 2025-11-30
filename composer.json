@@ -1,6 +1,6 @@
 {
   "name": "azuradara/mailcoach-mailer-swift",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "library",
   "description": "The Mailcoach transport for SwiftMailer",
   "keywords": [
